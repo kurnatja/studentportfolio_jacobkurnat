@@ -1,0 +1,62 @@
+html {
+    background: #e3e3e3;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: #fff;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+p {
+    line-height: 1.4em;
+}
+
+section {
+    border-top: 1px dotted #ccc;
+}
+
+nav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+figcaption {
+    font-size: 10px;
+}
+
+header {
+    color: white;
+    background: navy;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+a[href] {
+    color: red;
+}
+
+.stakeholders {
+    display: flex;
+    background: rgb(47, 46, 92);
+}
+
+.holder {
+    background: #e3e3e3;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
